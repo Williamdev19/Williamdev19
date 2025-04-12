@@ -15,7 +15,7 @@ Me chamo Gabriel William Bispo, tenho 19 anos e sou natural de Salvador. Atualme
         title="Me Siga"
         src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-<a href="https://github.com/gabriel-william-bispo" target="_blank">
+<a href="https://github.com/Williamdev19" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&Color=white" />
 </p>
 
