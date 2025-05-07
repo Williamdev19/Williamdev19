@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Gabriel William Bispo, tenho 19 anos e sou natural de Salvador. Atualmente, estou cursando Engenharia de Software na Unifacs e sou apaixonado por tecnologia. Gosto de criar sistemas úteis, mexer com Java, Python, e aprender coisas novas todo dia. Atualmente, tô focado em projetos de back-end e sempre buscando evoluir como dev.
+Me chamo Gabriel William Bispo, tenho 20 anos e sou natural de Salvador. Atualmente, estou cursando Engenharia de Software na Unifacs e sou apaixonado por tecnologia. Gosto de criar sistemas úteis, mexer com Java, Python, e aprender coisas novas todo dia. Atualmente, tô focado em projetos de back-end e sempre buscando evoluir como dev.
 
 <p aling="left">
     <a href="https://www.instagram.com/d3nt.yk2" target="_blank">
